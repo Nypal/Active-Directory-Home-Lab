@@ -2,6 +2,15 @@
 
 > **Status: 🚧 In Progress**
 >
+> ## Current Progress
+>
+> - Repository created
+> - - Professional documentation structure completed
+>   - - Lab environment planning in progress
+>     - - VM installation and configuration pending
+>      
+>       - ---
+>
 > ## Role Alignment
 >
 > This lab aligns with IT Support Engineer, Systems Administration, and OpsTech IT responsibilities, including user management, Windows Server administration, DNS, Group Policy, access control, troubleshooting, and root cause analysis.
@@ -18,12 +27,12 @@
 >
 > | Component | Details |
 > |---|---|
-> | Hypervisor | *(e.g., VirtualBox / VMware Workstation)* |
+> | Hypervisor | VirtualBox / VMware Workstation |
 > | Domain Controller OS | Windows Server 2019 / 2022 |
 > | Client Machine OS | Windows 10 / 11 |
-> | Domain Name | *(e.g., lab.local)* |
-> | Network Type | Internal / NAT Network |
-> | RAM Allocated | *(e.g., 4GB DC, 2GB Client)* |
+> | Domain Name | lab.local |
+> | Network Type | Internal Network / NAT Network |
+> | RAM Allocated | 4GB DC, 2GB Client |
 >
 > ---
 >
